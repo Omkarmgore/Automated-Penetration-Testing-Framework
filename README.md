@@ -1,4 +1,3 @@
-echo "
 # Linux Pentest Framework
 
 This tool is a Linux-based penetration testing framework designed to automate and simplify network scanning, vulnerability detection, and penetration testing tasks using popular tools such as nmap, nikto, and hydra. It provides a user-friendly command-line interface with logging and reporting features, tailored specifically for Linux environments.
