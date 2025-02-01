@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # README.md generator for uploading to GitHub
 
 # Create README.md file with the content for the Linux Pentest Framework
