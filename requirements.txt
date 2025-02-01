@@ -1,0 +1,5 @@
+python-nmap==0.7.1
+bcrypt==4.0.1
+rich==13.7.0
+python-libnmap==0.7.2
+hydra==0.2.5
