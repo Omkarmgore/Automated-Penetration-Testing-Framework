@@ -4,8 +4,6 @@ This tool is a Linux-based penetration testing framework designed to automate an
 "
 
 # Features
-echo "
-## Features
 
 - Network Scanning: Uses nmap for detailed service and port scanning.
 - Vulnerability Scanning: Includes nikto for web server vulnerability scanning.
@@ -16,8 +14,6 @@ echo "
 "
 
 # Prerequisites
-echo "
-## Prerequisites
 
 Ensure that the following dependencies are installed on your system:
 
@@ -39,8 +35,6 @@ sudo apt-get install nmap nikto hydra
 "
 
 # Installation steps
-echo "
-## Installation
 
 1. Clone the repository:
    git clone https://github.com/yourusername/linux-pentest-framework.git
